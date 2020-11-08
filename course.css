@@ -1,0 +1,24 @@
+.prod {
+    border: 1px solid black;
+    width: 80%;
+}
+
+.good-tittle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    color: black;
+}
+
+.good-price {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    color: crimson;
+}
+
+.img {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    color: cornflowerblue;
+}
